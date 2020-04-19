@@ -3,6 +3,7 @@
   <groupId>swe645-assignment3-1</groupId>
   <artifactId>swe645-assignment3-1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <name>SWE645_HW3</name>
   <packaging>war</packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
