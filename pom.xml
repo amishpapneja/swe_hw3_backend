@@ -6,6 +6,7 @@
   <name>SWE645_HW3</name>
   <packaging>war</packaging>
   <build>
+	  <finalName>swe_hw3</finalName>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
