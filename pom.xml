@@ -24,7 +24,12 @@
           <target>1.8</target>
         </configuration>
       </plugin>
-    </plugins> 
+    </plugins>
+	<resources>
+      <resource>
+        <directory>src/resources</directory>
+      </resource>
+    </resources>
   </build>
   
   <dependencies>
